@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NonLinearPipeline.ConsoleUsage/1.0.0": {
+        "dependencies": {
+          "NonLinearPipeline": "1.0.0"
+        },
+        "runtime": {
+          "NonLinearPipeline.ConsoleUsage.dll": {}
+        }
+      },
+      "NonLinearPipeline/1.0.0": {
+        "runtime": {
+          "NonLinearPipeline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NonLinearPipeline.ConsoleUsage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NonLinearPipeline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

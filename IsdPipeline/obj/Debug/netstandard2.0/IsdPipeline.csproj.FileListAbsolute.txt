@@ -1,0 +1,11 @@
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\bin\Debug\netstandard2.0\IsdPipeline.deps.json
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\bin\Debug\netstandard2.0\IsdPipeline.dll
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\bin\Debug\netstandard2.0\IsdPipeline.pdb
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.csprojAssemblyReference.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.Properties.Resources.resources
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.csproj.GenerateResource.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.csproj.CoreCompileInputs.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.AssemblyInfoInputs.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.AssemblyInfo.cs
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.dll
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdPipeline\obj\Debug\netstandard2.0\IsdPipeline.pdb

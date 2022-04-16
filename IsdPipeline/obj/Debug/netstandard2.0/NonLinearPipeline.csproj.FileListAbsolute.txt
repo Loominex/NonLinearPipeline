@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\bin\Debug\netstandard2.0\NonLinearPipeline.deps.json
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\bin\Debug\netstandard2.0\NonLinearPipeline.dll
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\bin\Debug\netstandard2.0\NonLinearPipeline.pdb
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.dll
+C:\Users\Lenovo\source\repos\NonLinearPipeline\IsdPipeline\obj\Debug\netstandard2.0\NonLinearPipeline.pdb

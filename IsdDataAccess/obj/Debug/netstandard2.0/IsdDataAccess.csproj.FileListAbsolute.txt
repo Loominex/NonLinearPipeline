@@ -1,0 +1,9 @@
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\bin\Debug\netstandard2.0\IsdDataAccess.deps.json
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\bin\Debug\netstandard2.0\IsdDataAccess.dll
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\bin\Debug\netstandard2.0\IsdDataAccess.pdb
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.csprojAssemblyReference.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.csproj.CoreCompileInputs.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.AssemblyInfoInputs.cache
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.AssemblyInfo.cs
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.dll
+D:\Infrastructure Department\VS_Projects\a.khosravi\IsdPanel\IsdDataAccess\obj\Debug\netstandard2.0\IsdDataAccess.pdb
