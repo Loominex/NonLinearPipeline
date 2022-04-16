@@ -1,2 +1,2 @@
 NonLinearPipeline designed for non-lenear business flows that multiple tasks executed in a non-sequential order, SSIS Package is a concrete example of this
-structure, according to your business,  business flow manager decides which step should be execute next, this structure is also equiped to some features including logging and controlling attributes that helps you to have a better controll over the execution os pipeline.
+structure, according to your business,  business flow manager decides which step should be execute next, this structure is also equiped to some features including logging and controlling attributes that helps you to have a better controll over the execution of pipeline.
