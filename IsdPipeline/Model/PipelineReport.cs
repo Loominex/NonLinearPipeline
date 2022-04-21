@@ -15,9 +15,9 @@ namespace NonLinearPipeline.Model
         /// </summary>
         public long PipelineElapsedSeconds{ get;private set; }
 
-        public PipelineReport(List<T> reportList,long elapsedsec)
+        public PipelineReport(List<T> reportList,long elapsedmillsec)
         {
-            this.PipelineElapsedSeconds = elapsedsec;
+            this.PipelineElapsedSeconds = elapsedmillsec;
             this.ReportList = reportList;
         }
     }

@@ -28,7 +28,7 @@ namespace NonLinearPipeline.Contract
             {
                 _Timer.Start();
                 result = this.Execute(input);
-                result.DurationSecond = _Timer.ElapsedMilliseconds / 1000;
+                result.DurationMilliseconds = _Timer.ElapsedMilliseconds;
                 result.FlowStep = this.PiplineStep;
                 result.StepOrder++;
                 _Timer.Stop();

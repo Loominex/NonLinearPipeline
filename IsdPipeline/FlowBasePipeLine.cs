@@ -57,14 +57,14 @@ namespace NonLinearPipeline
         /// <returns></returns>
         PipelineReport<T> IBasePipeline<T>.Initiate()
         {
-        var _Timer = new Stopwatch();
-        var obj = new T();
+            var _Timer = new Stopwatch();
+            var obj = new T();
             _Timer.Start();
             this.ValidatePipeline(stepList);
             this.Trigger(obj);
-            var seconds= _Timer.ElapsedMilliseconds / 1000;
+            var millseconds= _Timer.ElapsedMilliseconds ;
             _Timer.Stop();
-            _Report = new PipelineReport<T>(_ObjList, seconds);
+            _Report = new PipelineReport<T>(_ObjList, millseconds);
             return _Report;
         }
         /// <summary>

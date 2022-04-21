@@ -11,8 +11,8 @@ namespace NonLinearPipeline.ConsoleUsage
     {
         public override string GetNextStep(MyResult stepResult)
         {
+            //here we decide which step is the next step based on the stepResult, normaly we can use switch case syntax.
             throw new NotImplementedException();
-            //here we decide which step is the next step, normaly we can use switch case syntax.
         }
     }
 }
