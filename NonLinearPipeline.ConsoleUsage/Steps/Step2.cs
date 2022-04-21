@@ -13,6 +13,7 @@ namespace NonLinearPipeline.ConsoleUsage.Steps
 
         protected override MyResult Execute(MyResult input)
         {
+            //your business goes here.
             throw new NotImplementedException();
         }
     }
